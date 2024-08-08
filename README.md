@@ -1,7 +1,7 @@
 ## About Task Management System
 
 ### Project Description
-This is a api resource built with Laravel
+This is an api resource built with Laravel
 
 ### How to Install
 1. Clone the project
